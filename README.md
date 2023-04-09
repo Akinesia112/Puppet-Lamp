@@ -17,7 +17,7 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 - Concepts & shapes of lamp model.
 
-![image](Rendered.png)
+![image](Rendered_mode.png)
 
 - Rendered display mode of these lamp model.
 
