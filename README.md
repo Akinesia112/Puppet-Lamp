@@ -17,6 +17,10 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 - Concepts & shapes of lamp model.
 
+![image](Rendered.png)
+
+- Rendered display mode of these lamp model.
+
 ![image](Final_Program.png)
 
 - Final program of lamp modeling in Rhino 7.
