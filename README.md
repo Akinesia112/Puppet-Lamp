@@ -23,12 +23,12 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 - Build Plate Adhesion Type:Skirt
 
 #### Result
-Too thin of a wall is easy to collapse the bottom and support structure.
-The printing path in the Z-axis value is over setting.
-The initial speed is too fast to make sure a completed printing process.
+- Too thin of a wall is easy to collapse the bottom and support structure.
+- The printing path in the Z-axis value is over setting.
+- The initial speed is too fast to make sure a completed printing process.
 
 #### Solution
-Utilize “offsetsrf” command to thicken the surface into 
-Reduce the speed by tuning the 3D printer setting after the 9 times calibration of horizontal foundation.
-The initial speed is too fast to make sure a completed printing process.
+- Utilize “offsetsrf” command to thicken the surface into 
+- Reduce the speed by tuning the 3D printer setting after the 9 times calibration of horizontal foundation.
+- The initial speed is too fast to make sure a completed printing process.
 
