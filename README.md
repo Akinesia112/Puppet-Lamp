@@ -11,6 +11,17 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 ![image](Grasshopper_Hexagonal_Structure.png)
 
+- Hexagonal Structure to decorate lampshade surface in Grasshopper.
+
+![image](Concepts.png)
+
+- Concepts & shapes of lamp model.
+
+![image](Final_program.png)
+
+- Final program of lamp modeling in Rhino 7.
+
+
 ## Lampshade Printing
 ###SET-UP
 
