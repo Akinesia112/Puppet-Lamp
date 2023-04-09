@@ -1,6 +1,8 @@
 # Puppet-Lamp
 Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
+![image](Structure.png)
+
 ## Lampshade Modelling
 
 - Hexagonal Structure on the surface.
