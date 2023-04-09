@@ -9,6 +9,8 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 - Join the curve of Hexagonal Lines.
 - Create a pipe surface around a rail curve with 0.5 cm radius.
 
+![image](Grasshopper_Hexagonal_Structure.png)
+
 ## Lampshade Printing
 ###SET-UP
 
