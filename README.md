@@ -69,6 +69,8 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 ## Neck x Joints Modelling
 
+![image](neck_and_joints.png)
+
 ## Neck x Joints Printing
 ### SET-UP
 
