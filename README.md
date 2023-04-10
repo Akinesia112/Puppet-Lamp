@@ -62,9 +62,11 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 - printing process and result of lamp shade model in PLA.
 
-
 #### Solution
 - Utilize “offsetsrf” command to thicken the surface into 
 - Reduce the speed by tuning the 3D printer setting after the 9 times calibration of horizontal foundation.
 - The initial speed is too fast to make sure a completed printing process.
 
+## Neck x Joints Modelling
+
+## Neck x Joints Printing
