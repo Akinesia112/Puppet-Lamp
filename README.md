@@ -27,7 +27,7 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 
 ## Lampshade Printing
-###SET-UP
+### SET-UP
 
 #### Printer: Prusa i3 MK3S
 #### Print settings:
@@ -70,3 +70,7 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 ## Neck x Joints Modelling
 
 ## Neck x Joints Printing
+### SET-UP
+
+#### Printer: Prusa i3 MK3S
+#### Print settings:
