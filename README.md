@@ -49,11 +49,19 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 
 - Right view of lamp shade model for the simulation slicing for 3D printers in Ultimaker Cura.
 
+![image](line_type.png)
+
+- The slicing lamp shade model in line type of color scheme for 3D printers in Ultimaker Cura.
 
 #### Result
 - Too thin of a wall is easy to collapse the bottom and support structure.
 - The printing path in the Z-axis value is over setting.
 - The initial speed is too fast to make sure a completed printing process.
+
+![image](printing_result.png)
+
+- printing process and result of lamp shade model in PLA.
+
 
 #### Solution
 - Utilize “offsetsrf” command to thicken the surface into 
