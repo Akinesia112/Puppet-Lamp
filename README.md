@@ -79,15 +79,13 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 - Infill Density: 10 %
 - Infill Pattern: Triangles
 
-![image](Body_lasercutter.png)
-
 #### Printer: Prusa i3 MK3S
 #### Results:
 - Easy to break between layers
 - Wall should increase density
 - Infill is not enough to be a joint (20~30%)
 
-![image](test01.png)
+![image](test1.png)
 
 ## Neck x Joints Printing:Test_02
 ### SET-UP
@@ -102,10 +100,13 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 - Wall (top) quality is still poor
 - Support is not as expected
 
-![image](test02.png)
+![image](test2.png)
 
 
 ## Body&Leg: Laser Cutter
+
+![image](Body_lasercutter.png)
+
 #### Modeling:
 - Topological interlocking in assembly procedure.
 
