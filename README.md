@@ -109,7 +109,7 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 #### Modeling:
 - Topological interlocking in assembly procedure.
 
-![image](Body_lasercutter.png)
+![image](Body _ lasercutter.png)
 
 #### Tool:
 - Laser Cutter
@@ -121,11 +121,11 @@ Cutting Rate : 4%
 
 - Layout of model and result.
 
-![image](Body_lasercutter.png)
+![image](Body_lasercutter_result2.png)
 
 - Assembly of outcomes by laser cutter.
 
-![image](Body_lasercutter.png)
+![image](Body_lasercutter_result1.png)
 
 ## Result:Combination 
 
