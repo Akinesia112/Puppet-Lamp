@@ -78,6 +78,7 @@ Computer Aided Manufacturing Project : utilizing 3D printers and laser cutters.
 - Wall Thickness: 0.3 mm
 - Infill Density: 10 %
 - Infill Pattern: Triangles
+
 ![image](Body_lasercutter.png)
 
 #### Printer: Prusa i3 MK3S
